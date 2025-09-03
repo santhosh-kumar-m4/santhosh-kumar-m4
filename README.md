@@ -1,7 +1,7 @@
 # Hello! 👋
 
-I'm [Your Friend’s Name], a frontend developer passionate about **Angular** and **scalable UIs**.  
-With 2+ years in **FinTech**, I’ve built real-time dashboards for global investors and worked with **Barclays**, **Apollo Global**, and **Government of Saudi (UAE)**.  
+I'm Santhosh, a Angular UI developer passionate about **Angular** and **scalable UIs**.  
+With 2+ years in **FinTech**, I’ve built real-time dashboards for global investors and worked with multiple teams.  
 
 ---
 
