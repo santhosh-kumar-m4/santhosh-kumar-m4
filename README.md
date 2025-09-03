@@ -1,6 +1,11 @@
-# Hello Programmers! 👋
+# 👋 Hey, I'm Santhosh
 
-<h2 align="center">⚡ Transforming complex data into elegant, real-time dashboards with <span style="color:#DD0031">Angular</span> ⚡</h2>
+**Angular Developer** specializing in  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)  
+
+Crafting **real-time dashboards** and **scalable UIs** for the FinTech world 🌍.
 
 ### 🚀 Key Skills
 
