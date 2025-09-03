@@ -1,4 +1,6 @@
-# Hello! 👋
+# Hello Programmers! 👋
+
+<h2 align="center">⚡ Transforming complex data into elegant, real-time dashboards with <span style="color:#DD0031">Angular</span> ⚡</h2>
 
 ### 🚀 Key Skills
 
